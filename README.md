@@ -19,17 +19,17 @@ The model is available from:
 
 ## Sample examination of a previous model run:
 
-(Make sure you turn off pop-up blockers for the site www.vcell.org site (under Tools menu in internet explorer))
+(Make sure you turn off pop-up blockers for the site www.vcell.org site (under Tools menu in internet explorer))  
 Once the Virtual Cell applet has started (version 4 at the time of this writing) select:
-**File -> Open -> BioModel**
-And then in the "Select Document:" dialog box select **SuhJGP2004Fig11A**
-Then under the "Applications" box at the right side highlight **PipDecay** by clicking on it with the Mouse and then above that click on **Applications -> open**.
+**File -> Open -> BioModel**  
+And then in the "Select Document:" dialog box select **SuhJGP2004Fig11A**  
+Then under the "Applications" box at the right side highlight **PipDecay** by clicking on it with the Mouse and then above that click on **Applications -> open**.  
 Click on the Simulations tab on the newly appeared box, and highlight **Fig 11**. Click on the results button and graphically browse the concentrations.
 
 ## Sample change of parameters and rerunning a model:
 
-Under the simulations tab make sure that Fig 11 is still highlighted and click the edit button.
-Select the parameter **GGDP_M_init** and change the value to 150 (default is 200).
+Under the simulations tab make sure that Fig 11 is still highlighted and click the edit button.  
+Select the parameter **GGDP_M_init** and change the value to 150 (default is 200).  
 Click OK. Then click run. Wait for the simulation to finish (15 seconds or so) and then browse the results by clicking the result button.
 
 ---
